@@ -2,6 +2,12 @@
 
 Aplicação web responsiva baseada nas telas da pasta `Entrega - ACHADOS E PERDIDOS (1)`.
 
+## Tecnologias
+
+- HTML para a estrutura do frontend
+- CSS para a estilização e responsividade
+- JavaScript para o comportamento do frontend e para o backend em Node.js/Express
+
 ## Recursos
 
 - Catálogo público com busca, ordenação e filtros
